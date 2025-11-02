@@ -147,6 +147,7 @@ button {
     display: flex;
     justify-self: center;
     margin-top: 25px;
+    cursor: pointer;
 }
 
 .page h2,h3{
